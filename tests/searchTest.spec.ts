@@ -1,4 +1,4 @@
-//Test git
+//Test git new
 import { test, expect } from '@playwright/test';
 import { HomePage } from './pages/HomePage';
 import { Search } from './pages/Search';
